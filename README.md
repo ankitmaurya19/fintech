@@ -1,7 +1,7 @@
 # fintech
 <h2>Introduction</h2>
 It is a system used used for signup and login purpose.
-Database used is MongoDB which is connected using mongoose and Express Js is used as a framework. It uses JsonWebToken for creating tokens.
+Database used is MongoDB which is connected using mongoose and Node Js(Express Js) is used as a framework. It uses JsonWebToken for creating tokens.
 <h2>Key features</h2>
 <ul>
 <li>Log middleware is added for each type of request which store each request along with its statusCode.</li>
